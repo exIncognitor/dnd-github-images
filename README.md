@@ -2,7 +2,7 @@
 
 本地目录：`D:\desktop\dnd\DndGithubImages`。
 
-图片存放在 `images/` 中，建议按战役、地点或人物建立子文件夹。当前尚无图片，未部署 Cloudflare 图片站。
+图片存放在 `images/` 中，建议按战役、地点或人物建立子文件夹。当前已收录 `芙蕾雅.png` 和 `1B6D4049126431735042E11710462A74.png` 两张图片，未部署 Cloudflare 图片站。
 
 ## 使用边界
 
