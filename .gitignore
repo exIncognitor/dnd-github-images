@@ -1,0 +1,7 @@
+history/
+.codex-tmp/
+.env
+.env.*
+Thumbs.db
+Desktop.ini
+.DS_Store
